@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Bloc Jams
-thumbnail-path: "img/blocjam.png"
+thumbnail-path: "img/blocjams.png"
 short-description: A live music player, allowing you to stream you own music!
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjam.png)
+![]({{ site.baseurl }}/img/Blocjams.png)
 
 ## Explanation
 
