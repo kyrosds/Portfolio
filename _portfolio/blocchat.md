@@ -23,7 +23,7 @@ Linking the application and the database was just a matter of having all of the 
 
 ## Results
 
-The results of the application is functional chat room application that displays everything as it was intended. The application is also available to view on its own website: (https://david-bloc-chat.herokuapp.com/ Bloc Chat project)
+The results of the application is functional chat room application that displays everything as it was intended. The application is also available to view on its own website: [Bloc Chat project](https://david-bloc-chat.herokuapp.com/)
 
 ## Conclusion
 

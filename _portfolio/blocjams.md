@@ -7,7 +7,7 @@ short-description: A live music player, allowing you to stream you own music!
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/Blocjams.png)
+![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
 
@@ -24,7 +24,7 @@ I was able to accomplish the tasks that were laid out going through a step-by-st
 ## Results
 
 The final product consisted of a completed and refactored program that played the music of the selected album, allowing the user to switch from song to song, adjust the volume, and move to different places in the music track from within the music player.
-This project is available at this website: (http://david-bloc-jams-angular.herokuapp.com/ Bloc Jams)
+This project is available at this website: [Bloc Jams](http://david-bloc-jams-angular.herokuapp.com/)
 
 ## Conclusion
 
