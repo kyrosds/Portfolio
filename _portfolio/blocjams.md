@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc Jams
-thumbnail-path: "img/bloc-jam1.png"
+thumbnail-path: "img/blocjam.png"
 short-description: A live music player, allowing you to stream you own music!
 
 ---

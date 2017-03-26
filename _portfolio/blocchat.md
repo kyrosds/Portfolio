@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc Chat
-thumbnail-path: "img/bloc-chat.png"
+thumbnail-path: "img/blocchat.png"
 short-description: Bloc Chat is a real-time chat database, which allows users to communicate as long as they are in the same chat room.  
 
 ---
