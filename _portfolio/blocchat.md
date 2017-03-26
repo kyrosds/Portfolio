@@ -7,7 +7,7 @@ short-description: Bloc Chat is a real-time chat database, which allows users to
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloc-chat.png)
+![]({{ site.baseurl }}/img/bloc-chat1.png)
 
 ## Explanation
 
@@ -32,4 +32,4 @@ The following was accomplished within this project:
 * Created functional code through HTML, CSS, and JavaScript.
 * Used the AngularJS framework throughout the project.
 * Used Firebase platform to develop a fully functional chat room application.
-* Deployed the project to a cloud based platform allowing for access to the project from anywhere. 
+* Deployed the project to a cloud based platform allowing for access to the project from anywhere.
