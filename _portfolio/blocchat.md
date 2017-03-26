@@ -7,7 +7,7 @@ short-description: Bloc Chat is a real-time chat database, which allows users to
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloc-chat1.png)
+![]({{ site.baseurl }}/img/blocchat.png)
 
 ## Explanation
 

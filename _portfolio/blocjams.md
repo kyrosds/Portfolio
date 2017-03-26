@@ -7,7 +7,7 @@ short-description: A live music player, allowing you to stream you own music!
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloc-jam.png)
+![]({{ site.baseurl }}/img/blocjam.png)
 
 ## Explanation
 
